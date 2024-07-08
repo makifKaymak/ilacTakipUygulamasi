@@ -1,0 +1,402 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "!!!" : {
+
+    },
+    "%lld" : {
+
+    },
+    "Add" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekle"
+          }
+        }
+      }
+    },
+    "Age" : {
+
+    },
+    "Age: " : {
+
+    },
+    "Already have an account?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaten bir hesabınız var mı?"
+          }
+        }
+      }
+    },
+    "An 6 digit code has been sent to your Email ID." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6 haneli kod Email adresininize gönderildi."
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam et"
+          }
+        }
+      }
+    },
+    "Date: %@" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Deleting..." : {
+
+    },
+    "Doases" : {
+
+    },
+    "Doases: %@" : {
+
+    },
+    "Don't have an account?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesabınız yok mu?"
+          }
+        }
+      }
+    },
+    "Doses: %@" : {
+
+    },
+    "Edit" : {
+
+    },
+    "Email" : {
+
+    },
+    "Email: " : {
+
+    },
+    "Enter e-mail" : {
+
+    },
+    "Enter OTP" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OTP girin"
+          }
+        }
+      }
+    },
+    "Error" : {
+
+    },
+    "Fetching user location..." : {
+
+    },
+    "Forgot Password?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şifremi Unuttum?"
+          }
+        }
+      }
+    },
+    "Frequency of taking medicine: %@" : {
+
+    },
+    "Full Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tam ad"
+          }
+        }
+      }
+    },
+    "Fullname" : {
+
+    },
+    "Gender" : {
+
+    },
+    "Gender: " : {
+
+    },
+    "Home Screen" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ana Ekran"
+          }
+        }
+      }
+    },
+    "İlaçlarınız yok" : {
+
+    },
+    "Length" : {
+
+    },
+    "Length: " : {
+
+    },
+    "Login" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giriş Yap"
+          }
+        }
+      }
+    },
+    "Medications I Use" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kullandığım ilaçlar"
+          }
+        }
+      }
+    },
+    "Medicine Details" : {
+
+    },
+    "Medicine Name" : {
+
+    },
+    "Medicine name: %@" : {
+
+    },
+    "Medicine Name: %@" : {
+
+    },
+    "Medicine Type" : {
+
+    },
+    "Medicine type: %@" : {
+
+    },
+    "Medicine Type: %@" : {
+
+    },
+    "Medicine: %@" : {
+
+    },
+    "Medicines" : {
+
+    },
+    "My Medicines" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İlaçlarım"
+          }
+        }
+      }
+    },
+    "Name: " : {
+
+    },
+    "Ok" : {
+
+    },
+    "OK" : {
+
+    },
+    "Okay" : {
+
+    },
+    "Other" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diğer"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parola"
+          }
+        }
+      }
+    },
+    "pharmacies" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eczaneler"
+          }
+        }
+      }
+    },
+    "Pharmacies" : {
+
+    },
+    "Please enter your Email ID so that we can send the reset link." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yenileme bağlantısını gönderebilmemiz için lütfen Email adresinizi giriniz"
+          }
+        }
+      }
+    },
+    "Please sign in to continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please sign in to continue"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam etmek için lütfen giriş yap"
+          }
+        }
+      }
+    },
+    "Please sign up to continue" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam etmek için kayıt ol"
+          }
+        }
+      }
+    },
+    "Profile is loading..." : {
+
+    },
+    "Properties: %@" : {
+
+    },
+    "Remind When" : {
+
+    },
+    "Reminder Type: %@" : {
+
+    },
+    "Reset Password?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şifreyi yenile?"
+          }
+        }
+      }
+    },
+    "Select a type" : {
+
+    },
+    "Sign out..." : {
+
+    },
+    "SignUp" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaydol"
+          }
+        }
+      }
+    },
+    "Success" : {
+
+    },
+    "Text" : {
+
+    },
+    "Time: %@" : {
+
+    },
+    "Trying the login in please wait..." : {
+
+    },
+    "Trying the sign up please wait..." : {
+
+    },
+    "Type: %@" : {
+
+    },
+    "Unknown Place" : {
+
+    },
+    "Yakındaki Eczaneler" : {
+
+    },
+    "Yakındaki Nöbetçi Eczaneler" : {
+
+    },
+    "Yol Tarifi Al" : {
+
+    },
+    "Your medicine has been added successfully." : {
+
+    }
+  },
+  "version" : "1.0"
+}
